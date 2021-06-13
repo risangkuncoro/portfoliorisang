@@ -19,8 +19,8 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
-  link : "#contact"
+  label : "HUBUNGI SAYA"
+  link : "https://wa.me/6285727679755"
 
 
 # custom style

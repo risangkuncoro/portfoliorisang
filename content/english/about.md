@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "NGERTI AKU <br> GELEM RA?"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
